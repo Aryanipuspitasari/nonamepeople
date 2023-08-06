@@ -1,3 +1,4 @@
 # nonamepeople
 
-In this task I obtained challenge as a frontend developer to build the page according to the mock up as reference. I tried to create my design as close as possible to the mock up.
+   As a Frontend Developer, my goal was to recreate the mockup page with precision, closely resembling the reference image,and optionally enhancing the 
+   visual appeal by changing the logo image's color.
